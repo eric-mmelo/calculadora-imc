@@ -29,11 +29,11 @@ JavaScript
 
 Clone the repository:
 
-git clone https://github.com/your-username/imc-calculator.git
+git clone https://github.com/eric-mmelo/calculadora-imc.git
 
 Open the project folder:
 
-cd imc-calculator
+cd calculadora-imc
 
 Open the index.html file in your browser.
 	​
